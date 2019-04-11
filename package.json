@@ -1,6 +1,6 @@
 {
   "name": "rebot",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Repository Maintenance Bot",
   "main": "index.js",
   "scripts": {
