@@ -1,8 +1,9 @@
 {
   "name": "rebot",
+  "bin": "index.mjs",
   "version": "1.4.0",
   "description": "Repository Maintenance Bot",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/fantasyui-com/rebot#readme",
   "dependencies": {
-    "commander": "^2.15.1"
+    "args": "^5.0.1",
+    "outspoken": "^1.1.0"
   }
 }
