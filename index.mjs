@@ -1,8 +1,7 @@
 #!/usr/bin/env node --experimental-modules
 
-import args from 'args'
-import outspoken from '../outspoken'
-import program from './index.js'
+import args from 'args';
+import program from './program.mjs';
 
 async function main (conf){
 
