@@ -11,7 +11,7 @@ Rebot tests and injects repository things. It is centered around conventions rat
 - Configure Server
   * port: 8081
 - Validate configuration object using is-valid-object.
-  * fields: repository, commitMessage, isNpm
+  * fieldList: repository, commitMessage, isNpm
   * dropPacket: true
 - Check if this is a valid github repository using is-github-repo.
 - Ensure local availability of git repository using git-get.
