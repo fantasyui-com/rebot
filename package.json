@@ -21,6 +21,6 @@
   "dependencies": {
     "args": "^5.0.1",
     "lodash": "^4.17.11",
-    "outspoken": "^1.2.0"
+    "outspoken": "^1.3.0"
   }
 }
