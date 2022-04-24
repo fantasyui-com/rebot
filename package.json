@@ -1,7 +1,7 @@
 {
   "name": "rebot",
   "bin": "index.mjs",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "description": "Repository Maintenance Bot",
   "main": "index.mjs",
   "scripts": {
